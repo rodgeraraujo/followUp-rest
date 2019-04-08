@@ -1,0 +1,7 @@
+domain\Professor.class
+domain\Aluno.class
+service\AlunoFacadeREST.class
+ws\followupWS.class
+service\AbstractFacade.class
+service\ProfessorFacadeREST.class
+ws\ApplicationConfig.class
